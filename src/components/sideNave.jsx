@@ -22,7 +22,7 @@ const SideNave = ({ children }) => {
 
             <div className="pt-32">
 
-                <SideNaveList icon="fa-box" title="Dashboard" />
+                <navlink><SideNaveList icon="fa-box" title="Dashboard" /></navlink>
                 <SideNaveList icon="fa-users" title="Students" />
                 <SideNaveList icon="fa-user" title="Teacher" />
             </div>
