@@ -2,7 +2,7 @@ import React from "react"
 
 const Contact = () =>{
     return <div className="ml-[28%]">
-        <h1 className="text-4xl font-semibold pt-10">Welcome To Students</h1>
+        
         <div className="flex gap-5">
         <div className="bg-cyan-300 w-[300px] h-[200px] border-2 border-black rounded-2xl text-4xl text-center mt-20 pt-16 font-semibold">
             <h1>Courses</h1>
